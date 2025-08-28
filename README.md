@@ -52,7 +52,7 @@ A página apresenta:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no **Figma** através [desse link](https://www.figma.com/community/file/1389649528880849780/formulario-de-convite).  
+Você pode visualizar o layout do projeto no **Figma** através [desse link](https://www.figma.com/community/file/1371886246180677672).  
 É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
