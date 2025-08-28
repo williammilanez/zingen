@@ -1,5 +1,10 @@
 <p align="center">
-  <img alt="Logo - Zingen" src="./assets/logo.svg" width="200px" />
+  <span style="display:inline-block; vertical-align:middle;">
+    <img alt="Ícone Zingen" src="./assets/favicon-library-music.svg" width="65px" />
+  </span>
+  <span style="display:inline-block; vertical-align:middle;">
+    <img alt="Logo Zingen" src="./assets/logo.svg" width="200px" />
+  </span>
 </p>
 
 <p align="center">
@@ -11,7 +16,7 @@ Disponível em versão <strong>Desktop</strong> e <strong>Mobile</strong>.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -34,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Bibliotecas / Utilitários
 
-- [Google Fonts](https://fonts.google.com/)
+- <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
 
 ## 💻 Projeto
 
@@ -52,8 +57,8 @@ A página apresenta:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no **Figma** através [desse link](https://www.figma.com/community/file/1371886246180677672).  
-É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto no **Figma** através <a href="https://www.figma.com/community/file/1371886246180677672" target="_blank">desse link</a>.  
+Obs.: É necessário ter uma conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
 
 ## 📝 Licença
 
@@ -64,17 +69,4 @@ Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ por [William Milanez](https://github.com/William-Milanez) 🚀
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+**Desenvolvido pela [Rocketseat](https://rocketseat.com.br) e adaptado por [William Milanez](https://github.com/williammilanez)** 🚀
