@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo - Zingen" src=".github/logo.svg" width="200px" />
+  <img alt="Logo - Zingen" src="./assets/logo.svg" width="200px" />
 </p>
 
 <p align="center">
@@ -39,16 +39,16 @@ Bibliotecas / Utilitários
 ## 💻 Projeto
 
 **Zingen** é uma landing page de marketing para um aplicativo de Karaokê.  
-O design foi desenvolvido de forma **responsiva**, com adaptações para **Desktop** e **Mobile**.  
+O design foi desenvolvido de forma **responsiva**, com adaptações para **Desktop** e **Mobile**.
 
 A página apresenta:
 
-- **Hero Section** com chamada principal e botões de ação.  
-- **Sobre o app** com explicação da tecnologia e benefícios.  
-- **Funcionalidades** (biblioteca de músicas, gamificação, gravações, entre outras).  
-- **Planos e preços** (gratuito, premium e família).  
-- **Seção de download** com links para App Store e Play Store.  
-- **Rodapé institucional** com links e redes sociais.  
+- **Hero Section** com chamada principal e botões de ação.
+- **Sobre o app** com explicação da tecnologia e benefícios.
+- **Funcionalidades** (biblioteca de músicas, gamificação, gravações, entre outras).
+- **Planos e preços** (gratuito, premium e família).
+- **Seção de download** com links para App Store e Play Store.
+- **Rodapé institucional** com links e redes sociais.
 
 ## 🔖 Layout
 
@@ -58,7 +58,7 @@ Você pode visualizar o layout do projeto no **Figma** através [desse link](htt
 ## 📝 Licença
 
 Esse projeto está sob a licença **MIT**.  
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 📌 Nota: Este projeto foi desenvolvido com **fins educacionais** durante as aulas da **Rocketseat** e **não possui fins lucrativos**.
 
