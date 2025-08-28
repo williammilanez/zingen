@@ -57,12 +57,14 @@ Você pode visualizar o layout do projeto no **Figma** através [desse link](htt
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.  
-Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença **MIT**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+
+📌 Nota: Este projeto foi desenvolvido com **fins educacionais** durante as aulas da **Rocketseat** e **não possui fins lucrativos**.
 
 ---
 
-Desenvolvido por Rocketseat e adaptado por [William Milanez](https://github.com/William-Milanez) com fins educacionais e práticos 🚀
+Feito com ♥ por [William Milanez](https://github.com/William-Milanez) 🚀
 
 <!--START_SECTION:footer-->
 
